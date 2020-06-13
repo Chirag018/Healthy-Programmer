@@ -7,3 +7,7 @@ Which causes eyes weakness and we don't drink water or we don't leave the chair 
 To solve this problem I have made a program which alert us to drink water,eye exercise, physical exercise by playing a song for your healthy body.
 
 It will also save the time when we drink water, or do exercise in log file.
+
+Requirements
+
+Python3 and Pygame Module.
