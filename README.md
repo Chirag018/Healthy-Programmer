@@ -11,3 +11,9 @@ It will also save the time when we drink water, or do exercise in log file.
 # Requirements
 
 Python3 and Pygame Module.
+
+## Files Required
+1.Water.mp3
+2.Eyes.mp3
+3.Physical.mp3
+
